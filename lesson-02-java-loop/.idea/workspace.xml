@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59cc668b-0571-40c4-a7c1-f4e63bd9a96f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codegym/greatest_common_factor/GreatestCommonFactor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/draw_geometry/Geometry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +48,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GreatestCommonFactor">
+  <component name="RunManager" selected="Application.Geometry">
+    <configuration name="Geometry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.draw_geometry.Geometry" />
+      <module name="lesson-02-java-loop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.draw_geometry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GreatestCommonFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codegym.greatest_common_factor.GreatestCommonFactor" />
       <module name="lesson-02-java-loop" />
@@ -92,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Geometry" />
         <item itemvalue="Application.GreatestCommonFactor" />
         <item itemvalue="Application.Interest" />
         <item itemvalue="Application.Prime" />
@@ -113,7 +125,8 @@
       <workItem from="1696990061106" duration="623000" />
       <workItem from="1697011019921" duration="1885000" />
       <workItem from="1697015261482" duration="1724000" />
-      <workItem from="1697037818118" duration="399000" />
+      <workItem from="1697037818118" duration="857000" />
+      <workItem from="1697039490054" duration="1282000" />
     </task>
     <servers />
   </component>
