@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59cc668b-0571-40c4-a7c1-f4e63bd9a96f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codegym/display_geomectry_types/DisplayGeometricTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/prime_number_100/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/the_first_20prime_number/TheFirst20PrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DisplayGeometricTypes">
+  <component name="RunManager" selected="Application.TheFirst20PrimeNumber$PrimeNumbers">
     <configuration name="DisplayGeometricTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codegym.display_geomectry_types.DisplayGeometricTypes" />
       <module name="lesson-02-java-loop" />
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegym.interest_calculator.Interest" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.prime_number_100.PrimeNumber" />
       <module name="lesson-02-java-loop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegym.interest_calculator.*" />
+          <option name="PATTERN" value="com.codegym.prime_number_100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegym.check_prime.Prime" />
+    <configuration name="TheFirst20PrimeNumber$PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.the_first_20prime_number.TheFirst20PrimeNumber$PrimeNumbers" />
       <module name="lesson-02-java-loop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegym.check_prime.*" />
+          <option name="PATTERN" value="com.codegym.the_first_20prime_number.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheFirst20PrimeNumber$PrimeNumbers" />
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.DisplayGeometricTypes" />
         <item itemvalue="Application.Geometry" />
         <item itemvalue="Application.GreatestCommonFactor" />
-        <item itemvalue="Application.Interest" />
-        <item itemvalue="Application.Prime" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +142,9 @@
       <workItem from="1697015261482" duration="1724000" />
       <workItem from="1697037818118" duration="857000" />
       <workItem from="1697039490054" duration="1885000" />
-      <workItem from="1697182382592" duration="1903000" />
+      <workItem from="1697182382592" duration="3003000" />
+      <workItem from="1697423057801" duration="5000" />
+      <workItem from="1697439986797" duration="867000" />
     </task>
     <servers />
   </component>
