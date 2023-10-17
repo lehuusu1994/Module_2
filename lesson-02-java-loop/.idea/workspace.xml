@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59cc668b-0571-40c4-a7c1-f4e63bd9a96f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codegym/prime_number_100/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codegym/the_first_20prime_number/TheFirst20PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="59cc668b-0571-40c4-a7c1-f4e63bd9a96f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +140,7 @@
       <workItem from="1697039490054" duration="1885000" />
       <workItem from="1697182382592" duration="3003000" />
       <workItem from="1697423057801" duration="5000" />
-      <workItem from="1697439986797" duration="867000" />
+      <workItem from="1697439986797" duration="1214000" />
     </task>
     <servers />
   </component>
