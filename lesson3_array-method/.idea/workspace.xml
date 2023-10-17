@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d749828-28c4-4435-9642-3843831e7e5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codegym/find_max_element/FindMaxElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/convert_temperature/ConvertTemperature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -48,7 +49,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FindMaxElement">
+  <component name="RunManager" selected="Application.ConvertTemperature">
+    <configuration name="ConvertTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.convert_temperature.ConvertTemperature" />
+      <module name="lesson3_array-method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.convert_temperature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindMaxElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codegym.find_max_element.FindMaxElement" />
       <module name="lesson3_array-method" />
@@ -90,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertTemperature" />
         <item itemvalue="Application.FindMaxElement" />
         <item itemvalue="Application.StudentArray" />
         <item itemvalue="Application.ReverseArray" />
@@ -105,7 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697441211193</updated>
       <workItem from="1697441212220" duration="402000" />
-      <workItem from="1697507237746" duration="3194000" />
+      <workItem from="1697507237746" duration="5246000" />
     </task>
     <servers />
   </component>
